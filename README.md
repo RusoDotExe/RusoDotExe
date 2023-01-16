@@ -1,4 +1,4 @@
-### Hi there 👋
+[](https://github.com/RusoDotExe/RusoDotExe/blob/main/7bbu.gif)
 
 <!--
 **RusoDotExe/RusoDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
