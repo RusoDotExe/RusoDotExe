@@ -1,4 +1,4 @@
-#I am still working on this page... Please wait :D
+# I am still working on this page... Please wait
 
 ![](https://github.com/RusoDotExe/RusoDotExe/blob/main/7bbu.gif)
 
