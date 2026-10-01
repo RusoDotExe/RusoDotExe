@@ -2,7 +2,7 @@
 
 ![](https://github.com/RusoDotExe/RusoDotExe/blob/main/7bbu.gif)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ruso32?theme=nord&font=JetBrains%20Mono&ext=activity)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ruso32?theme=nord&font=JetBrains%20Mono&ext=activity)
 
 <!--
 **RusoDotExe/RusoDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
